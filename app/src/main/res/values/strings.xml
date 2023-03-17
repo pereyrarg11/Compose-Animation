@@ -8,4 +8,8 @@
     <!-- Color animation screen -->
     <string name="label_color_animation">Color animations</string>
     <string name="action_change_color">Change color</string>
+
+    <!-- Size animation screen -->
+    <string name="label_size_animation">Size animations</string>
+    <string name="action_change_size">Change size</string>
 </resources>
