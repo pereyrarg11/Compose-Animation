@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Compose Animation</string>
+
+    <!-- Global -->
+    <string name="label_basic_animation">Basic animation</string>
+    <string name="label_advanced_animation">Advanced animation</string>
+
+    <!-- Color animation screen -->
+    <string name="label_color_animation">Color animations</string>
+    <string name="action_change_color">Change color</string>
 </resources>
