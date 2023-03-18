@@ -1,4 +1,4 @@
-package com.pereyrarg11.composeanimation.size
+package com.pereyrarg11.composeanimation.visibility
 
 import android.content.res.Configuration
 import androidx.compose.animation.AnimatedVisibility
