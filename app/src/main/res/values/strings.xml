@@ -12,4 +12,8 @@
     <!-- Size animation screen -->
     <string name="label_size_animation">Size animations</string>
     <string name="action_change_size">Change size</string>
+
+    <!-- Visibility animation screen -->
+    <string name="label_visibility_animation">Visibility animations</string>
+    <string name="action_change_visibility">Change visibility</string>
 </resources>
