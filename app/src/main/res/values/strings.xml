@@ -16,4 +16,8 @@
     <!-- Visibility animation screen -->
     <string name="label_visibility_animation">Visibility animations</string>
     <string name="action_change_visibility">Change visibility</string>
+
+    <!-- Crossfade animation screen -->
+    <string name="label_crossfade_animation">Crossfade animation</string>
+    <string name="action_change_component">Change component</string>
 </resources>
